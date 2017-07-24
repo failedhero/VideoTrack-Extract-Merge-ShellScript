@@ -1,0 +1,7 @@
+Audio
+
+Codec: %Codec%
+Bitrate: %BitRate_String%
+Channel(s): %Channel(s)%
+Language(s): %Language/String%
+Subtitle(s):

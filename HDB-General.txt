@@ -1,0 +1,6 @@
+General
+
+Name: %FileName%
+Format: %Format%
+Runtime: %Duration/String%
+Size: %FileSize/String%

@@ -1,0 +1,8 @@
+Video
+
+Codec: %Codec% %Codec_Profile%
+Bitrate: %BitRate/String%
+Width: %Width%
+Height: %Height%
+Aspec Ratio: %DisplayAspectRatio%
+Framerate: %FrameRate%
